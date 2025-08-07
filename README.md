@@ -1,4 +1,4 @@
 # First-Project
 This is my first Git Repository.3
-<ps>
+<pr>
 Author - Abhishek Anand
